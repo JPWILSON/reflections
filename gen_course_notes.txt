@@ -1,0 +1,9 @@
+Git checkouts: 
+
+3884eab   		Add color										BUG
+3e42136a 		now using request animation
+4035769frame 	interval was set
+25ede83690 		a couple missing ends with the ipad version		BUG detected here!
+df035382c41b	I can't spell 'screen' apparently				no bug
+b0678b161		Revert controls									no bug
+f19cb1b80f		Fix typo in space    							no bug
