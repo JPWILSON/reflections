@@ -17,4 +17,4 @@ What value do you think it adds?
 	It is valuable in that it allows for the upload of whichever files you select, otherwise
 	 you would have to commit all files, which would not be congruent with the 
 	 philosophy of commiting at our own logical points. That is, some of the files may not be
-	 being worked on, and so shouldn't have a commit at that point. 
+	 being worked on, and so shouldn't have a commit at that point.git comm 

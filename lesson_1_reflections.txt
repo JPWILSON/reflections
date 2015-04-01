@@ -75,13 +75,13 @@ could break something?
     the possibility of breaking the programme. 
     Makes you more of a RISKTAKER :):) Exploration! no worry about little baby steps :) 
 
-Now that you have your workspace set up, what do you want to try using Gt for? 
+Now that you have your workspace set up, what do you want to try using Git for? 
 
     I want to try using it for all of the coding that I am going to be doing from now on, 
-    from my web development, Java additions to the website that I have just made for my 
+    from my web development, Javascript additions to the website that I have just made for my 
     resume, and for the service offering for the Bespoke Designs system, and then, starting from this 
     week, I want to start using it for the backend stuff, as I start the course: Introduction to 
-    relational databases. 
+    relational databases. oop dog 
 
     Lastly, in review, I need to make sure that I understand perfectly how to set up my Git workspace for 
     myself, and read all of the suggested articles. Only then should I move on. 
