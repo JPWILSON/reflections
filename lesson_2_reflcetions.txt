@@ -1,0 +1,20 @@
+What happens when you initialise a repository? Why do you need to do it?
+	This is the process of opening a git file, from where you can use the 
+	"commit" command in order to commit the file(s) that you have been working
+	on. You can now also make use of the "checkout" commmand, to revert to, 
+	or simply inspect an older commit. 
+	What happens when you initialize a repository? Why do you need to do it?
+	A hidden git file is created which will start to store metadata about the 
+	history of the repository, since its creation. You need to do this in order 
+	to be able to commit changes to your code. If you do not do this, there would 
+	not be a way to track the changes to the various files. 
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it adds?
+	The staging area is a temporary section working with various documents, ie the specific
+	ones that you would like to make a commit for. The working directory, and the repository,
+	once they have been made, are both permanent. 
+	It is valuable in that it allows for the upload of whichever files you select, otherwise
+	 you would have to commit all files, which would not be congruent with the 
+	 philosophy of commiting at our own logical points. That is, some of the files may not be
+	 being worked on, and so shouldn't have a commit at that point. 
