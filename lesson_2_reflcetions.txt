@@ -17,4 +17,11 @@ What value do you think it adds?
 	It is valuable in that it allows for the upload of whichever files you select, otherwise
 	 you would have to commit all files, which would not be congruent with the 
 	 philosophy of commiting at our own logical points. That is, some of the files may not be
-	 being worked on, and so shouldn't have a commit at that point.git comm 
+	 being worked on, and so shouldn't have a commit at that point.
+
+How can you use the staging area to make sure you have one ligical change per commit? 
+	Once you have placed file(s) in the staging area, you are able to compare them to either, 
+	what is in the working directory, to see how you have changed the files, and then, if happy,
+	to the latest commit in the repository. This way you can be sure that you are only 
+	selecting the files associated with the logical commit to be made. You can also then have a 
+	final review of the changes that are about to be committed.
