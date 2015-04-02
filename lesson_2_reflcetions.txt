@@ -25,3 +25,13 @@ How can you use the staging area to make sure you have one ligical change per co
 	to the latest commit in the repository. This way you can be sure that you are only 
 	selecting the files associated with the logical commit to be made. You can also then have a 
 	final review of the changes that are about to be committed.
+
+What are some situations when branches would be helpful in keeping your history organised? How 
+would branches help? 
+	Branches would help when there are multiple purposes for your code, and so you would require 
+	multiple versions. That is, a single branch is excellent if the work only has one path, from 
+	start to completion. More explicitly, when the current version is correct, but not suitable for 
+	all applications, so another version is needed. That is, the newer iterations are not improvements,
+	but rather are just different. These are the cases when branches become very helpful in keeping 
+	your history organised. Some examples of this include: When doing a new language for the code, or 
+	when programming for a different operating system, or when the end user has different needs. 
