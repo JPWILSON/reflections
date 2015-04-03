@@ -34,4 +34,10 @@ would branches help?
 	all applications, so another version is needed. That is, the newer iterations are not improvements,
 	but rather are just different. These are the cases when branches become very helpful in keeping 
 	your history organised. Some examples of this include: When doing a new language for the code, or 
-	when programming for a different operating system, or when the end user has different needs. 
+	when programming for a different operating system, or when the end user has different needs. Basically, 
+	this is when context changes - for collaboration, etc 
+
+How do the diagrams help you visualise the branch structure? 
+	The show you how simple the setup is, and make it more meaningful so that you are no longer 
+	rote learning, but rather just being taught a new concept. It makes one comfortable with the 
+	idea of commits, as a path along which you travel from concept, to finished code :)
