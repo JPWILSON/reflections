@@ -50,3 +50,9 @@ What is the result of merging two branches together? Why do we represent it in t
 	parent, the command: git show commit_ID  is used. The one branch is then deleted and the main branch 
 	has the smaller branch merged into it. It is represented in this way because it is, once again, logical 
 	and easy to follow. 
+
+What are the pros and cons of GIT's automatic merging vs. always doing merges manually? 
+	The pros are that you save a lot of time, and that the system pauses when it doesn't actually know how 
+	to merge two branches (that is, when there is a problem with knowing what is the right version of the code)
+	I am not too sure what the cons of this system are. Perhaps they will come to light as I continue to use 
+	GIT. 
