@@ -41,3 +41,12 @@ How do the diagrams help you visualise the branch structure?
 	The show you how simple the setup is, and make it more meaningful so that you are no longer 
 	rote learning, but rather just being taught a new concept. It makes one comfortable with the 
 	idea of commits, as a path along which you travel from concept, to finished code :)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
+	When two branches are merged, all of the commits from each of the branches are included, using the 
+	methodology of seeing what was removed and what was added. All the commits are put together, with some 
+	being consecutive to commits that are not their parents. The reason for this is that they are ordered
+	in accordance with their time stanmps. So, in order to see the differences introduced since a commit's
+	parent, the command: git show commit_ID  is used. The one branch is then deleted and the main branch 
+	has the smaller branch merged into it. It is represented in this way because it is, once again, logical 
+	and easy to follow. 
