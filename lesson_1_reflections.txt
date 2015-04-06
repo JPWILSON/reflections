@@ -47,6 +47,7 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
+    Interdependency!!!  
     When programming, there are often times when the files being edited are inter-
     related, and it would not make too much sense when reviewing, if changes were done 
     in separate files but you could not track the changes at the same points, or, 
@@ -60,9 +61,8 @@ files in one commit, while others, like Google Docs, treat each file separately?
 How can you use the commands git log and git diff to view the history of files? 
 
     Using Git log shows all of the different commits that have been made. Once this has been done,
-    the git diff command is used to show the actual changes between two specific commits. I assume
-    that you can take a close up view, or a large view depending on the two commits 
-    that you are comparing  (consecutive or far apart) 
+    the git diff command is used to show the actual changes between two specific commits, namely a specific 
+    commit and its parent (the diff that was committed before it).
 
 How might using version control make you more confident to make changes that
 could break something?
@@ -81,7 +81,8 @@ Now that you have your workspace set up, what do you want to try using Git for?
     from my web development, Javascript additions to the website that I have just made for my 
     resume, and for the service offering for the Bespoke Designs system, and then, starting from this 
     week, I want to start using it for the backend stuff, as I start the course: Introduction to 
-    relational databases. oop dog 
+    relational databases. I should also use it for my Resume, in the same way that Caroline Buckey suggested.
+
 
     Lastly, in review, I need to make sure that I understand perfectly how to set up my Git workspace for 
     myself, and read all of the suggested articles. Only then should I move on. 
