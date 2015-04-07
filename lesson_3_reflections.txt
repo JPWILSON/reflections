@@ -9,3 +9,11 @@ stay up-to-date with your remote repository?
 
 	You would do this for the same reason as you commit manually; you may never have a 
 	version of working code, you may not know the right time to pull changes, etc. 
+
+Describe the difference between clones, forks and branches? When would you use one instead of the other? 
+	
+	Forks are clones made by GitHub on GitHub. They are made so that you can make changes to a certain
+	repository even if the owner of the original work does not give you permission to change their original. 
+	Clone is when you copy a repository for yourself to work on, either from the internet in general, GITHub in 
+	particular, or your own computer. Branches are made when you want to change some of your code, without affecting the 
+	original direction of the master path of code. 
