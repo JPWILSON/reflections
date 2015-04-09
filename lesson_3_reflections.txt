@@ -28,7 +28,13 @@ How would you collaborate without using Git or GitHub? What would be easier and 
 	I would need lots of versions of a file with the filename changing with each revision, which could climb into the 
 	hundreds, or even the thousands... However, this is simpler than making all the people you may have to collaborate with 
 	learn Git and GitHub, unless they themselves saw the benefit. Everything would be easier with GitHub and Git, except of 
-	course if there was no internet available. 
+	course if there was no internet available.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have? 
+
+	Making changes in the separate branch is great when collaborating and needing to review other peoples work. This way, the 
+	main work is not damaged/ your master branch always has a working version, whether you are working on the project alone, or with 
+	a group of collaborators. 
 
 
 
