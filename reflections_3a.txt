@@ -1,0 +1,7 @@
+This is going to be a text file on my lesson 3 reflections. 
+However, it is 2 months after doing the course, ie it is the reflections recap, as I don't 
+think that I did it properly the last time round. 
+
+When would you want to use a remote repository rather than keeping all of your work local?  
+Well, whenever I am working from more than one computer.
+Additionally, whenever there is more than one person contributing to the project. 
